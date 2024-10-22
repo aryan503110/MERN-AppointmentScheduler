@@ -1,0 +1,17 @@
+.unordered-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.list{
+    border: 1px solid peachpuff;
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: peachpuff;
+
+}
